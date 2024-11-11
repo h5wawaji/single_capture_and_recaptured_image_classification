@@ -1,4 +1,6 @@
-# Single Capture and Recaptured Image Classificator
+# 有预训练但是没train
+
+Single Capture and Recaptured Image Classificator
 
 GUI with a CNN-trained image classifier to recognize recaptured images from single captures images. Made for the Master's Thesis "Implementation and Optimization of a Deep Learning-Based Detection Method for Recaptured Images" at [Berlin Hochschule für Technik](https://www.bht-berlin.de/). 
 
